@@ -12,8 +12,8 @@
  ### [my CV](https://drive.google.com/file/d/1IbI_GI4TcjNS1EzTdySpVU9qBRnXIRZh/view?usp=share_link)
  
  #### some projects:
- - [RS Lang](https://rslang-greg-front-end.netlify.app/) [**rep**](https://github.com/greg-front-end/rslang)
- - [Async race](https://lilithprimary.github.io/rss-stage1-2-tasks/async-race/) [**rep**](https://github.com/LilithPrimary/rss-stage1-2-tasks/tree/async-race)
+ - [RS Lang (need some time to server wake up)](https://rslang-greg-front-end.netlify.app/) [**rep**](https://github.com/greg-front-end/rslang)
+ - [Async race (need some time to server wake up)](https://lilithprimary.github.io/rss-stage1-2-tasks/async-race/) [**rep**](https://github.com/LilithPrimary/rss-stage1-2-tasks/tree/async-race)
  - [Online store](https://lilithprimary.github.io/rss-stage1-2-tasks/online-store/) [**rep**](https://github.com/LilithPrimary/rss-stage1-2-tasks/tree/online-store)
  - [News JS](https://lilithprimary.github.io/rss-stage1-2-tasks/news-JS/) [**rep**](https://github.com/LilithPrimary/rss-stage1-2-tasks/tree/news-JS)
  - [Virtual keyboard](https://lilithprimary.github.io/virtual-keyboard/dist/) [**rep**](https://github.com/LilithPrimary/rss-stage1-2-tasks/tree/news-JS)
