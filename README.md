@@ -9,7 +9,7 @@
   
   If I don't know something needed I'll learn it quickly. I have strong problem solving skill.
  
- ### [my CV](https://drive.google.com/file/d/1IbI_GI4TcjNS1EzTdySpVU9qBRnXIRZh/view?usp=share_link)
+ ### [my CV](https://drive.google.com/file/d/1vL0D6-tdta2Bc0B5_YbaDBeohCk8-Sh5/view?usp=share_link)
  
  #### some projects:
  - [RS Lang (need some time to server wake up)](https://rslang-greg-front-end.netlify.app/) [**rep**](https://github.com/greg-front-end/rslang)
