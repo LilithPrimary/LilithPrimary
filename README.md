@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on [Project Management App](https://github.com/RSS-React-2022Q3-Team-27/project-management-app)
+- 🔭 I’m currently working on [Node.js](https://github.com/LilithPrimary/node-nodejs-basics)
 ### Hi! My name is Galia!
 
 ## Javascript, TypeScript, React
@@ -12,6 +12,7 @@
  ### [my CV](https://drive.google.com/file/d/1vL0D6-tdta2Bc0B5_YbaDBeohCk8-Sh5/view?usp=share_link)
  
  #### some projects:
+ - [Project Management App](https://gleeful-arithmetic-daffb3.netlify.app/#/) [**repo**](https://github.com/RSS-React-2022Q3-Team-27/project-management-app)
  - [RS Lang (need some time to server wake up)](https://rslang-greg-front-end.netlify.app/) [**repo**](https://github.com/greg-front-end/rslang)
  - [Async race (need some time to server wake up)](https://lilithprimary.github.io/rss-stage1-2-tasks/async-race/) [**repo**](https://github.com/LilithPrimary/rss-stage1-2-tasks/tree/async-race)
  - [Online store](https://lilithprimary.github.io/rss-stage1-2-tasks/online-store/) [**repo**](https://github.com/LilithPrimary/rss-stage1-2-tasks/tree/online-store)
