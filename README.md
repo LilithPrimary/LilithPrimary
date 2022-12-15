@@ -23,6 +23,8 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)  
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
   
+[![codewars](https://www.codewars.com/users/LilithPrimary/badges/micro)](https://www.codewars.com/users/LilithPrimary)
+  
 </div>
   
   I'm good at solving algorithmic problems and writing logic.
@@ -46,4 +48,4 @@
  - [Snake game](https://lilithprimary.github.io/rsschool0/snake/) [**repo**](https://github.com/LilithPrimary/rsschool0/tree/snake)
  - [Memory game](https://lilithprimary.github.io/rsschool0/memory-game/) [**repo**](https://github.com/LilithPrimary/rsschool0/tree/memory-game)
  - [Tic tac toe](https://lilithprimary.github.io/rsschool0/tic-tac-toe/) [**repo**](https://github.com/LilithPrimary/rsschool0/tree/tic-tac-toe)
- - [Pseudo webpack](https://github.com/LilithPrimary/HTML-builder/tree/main/06-build-page) **Node.js**
+ - [Pseudo webpack](https://github.com/LilithPrimary/HTML-builder/tree/main/06-build-page) **Node.js**  
