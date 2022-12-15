@@ -1,11 +1,12 @@
+---
 name: generate animation
 on:
   schedule:
-    - cron: "0 */12 * * *" 
-  workflow_dispatch:
+    - cron: 0 */12 * * *
+  workflow_dispatch: null
   push:
     branches:
-    - master
+      - master
 jobs:
   generate:
     runs-on: ubuntu-latest
