@@ -49,3 +49,5 @@
  - [Memory game](https://lilithprimary.github.io/rsschool0/memory-game/) [**repo**](https://github.com/LilithPrimary/rsschool0/tree/memory-game)
  - [Tic tac toe](https://lilithprimary.github.io/rsschool0/tic-tac-toe/) [**repo**](https://github.com/LilithPrimary/rsschool0/tree/tic-tac-toe)
  - [Pseudo webpack](https://github.com/LilithPrimary/HTML-builder/tree/main/06-build-page) **Node.js**  
+
+![snake](https://github.com/LilithPrimary/LilithPrimary/blob/output/github-contribution-grid-snake.svg)
