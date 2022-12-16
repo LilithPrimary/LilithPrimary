@@ -33,7 +33,7 @@
   
   If I don't know something needed I'll learn it quickly. I have strong problem solving skill.
  
- ### [my CV](https://drive.google.com/file/d/1vL0D6-tdta2Bc0B5_YbaDBeohCk8-Sh5/view?usp=share_link)
+ ### [my CV](https://drive.google.com/file/d/13oFsUlR9BsqLV8R7g3035Y4h11kylkzY/view?usp=sharing)
  
  #### some projects:
  - [Project Management App](https://gleeful-arithmetic-daffb3.netlify.app/#/) [**repo**](https://github.com/RSS-React-2022Q3-Team-27/project-management-app)
