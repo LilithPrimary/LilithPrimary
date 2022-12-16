@@ -50,4 +50,4 @@
  - [Tic tac toe](https://lilithprimary.github.io/rsschool0/tic-tac-toe/) [**repo**](https://github.com/LilithPrimary/rsschool0/tree/tic-tac-toe)
  - [Pseudo webpack](https://github.com/LilithPrimary/HTML-builder/tree/main/06-build-page) **Node.js**  
 
-![snake](https://github.com/LilithPrimary/LilithPrimary/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://github.com/LilithPrimary/LilithPrimary/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://github.com/LilithPrimary/LilithPrimary/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
