@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on [File manager (Node.js)](https://github.com/LilithPrimary/file-manager/tree/dev)
 
-<h1>Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Galia!</a></h1>
+<h1>Hi there, I'm <a href="https://lilithprimary.github.io/CV/" target="_blank">Galia!</a></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Front-end+developer)](https://git.io/typing-svg)
 
