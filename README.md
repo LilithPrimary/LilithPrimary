@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on [File-manager (Node.js)](https://github.com/LilithPrimary/file-manager)
+- 🔭 I’m currently working on [File manager (Node.js)](https://github.com/LilithPrimary/file-manager/tree/dev)
 
 <h1>Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Galia!</a></h1>
 
@@ -48,6 +48,7 @@
  - [Snake game](https://lilithprimary.github.io/rsschool0/snake/) [**repo**](https://github.com/LilithPrimary/rsschool0/tree/snake)
  - [Memory game](https://lilithprimary.github.io/rsschool0/memory-game/) [**repo**](https://github.com/LilithPrimary/rsschool0/tree/memory-game)
  - [Tic tac toe](https://lilithprimary.github.io/rsschool0/tic-tac-toe/) [**repo**](https://github.com/LilithPrimary/rsschool0/tree/tic-tac-toe)
+ - [File manager](https://github.com/LilithPrimary/file-manager/tree/dev) **Node.js**
  - [Pseudo webpack](https://github.com/LilithPrimary/HTML-builder/tree/main/06-build-page) **Node.js**  
 
 ![github contribution grid snake animation](https://github.com/LilithPrimary/LilithPrimary/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://github.com/LilithPrimary/LilithPrimary/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
