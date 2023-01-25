@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on [CRUD API (Node.js)](https://github.com/LilithPrimary/crud-api)
 
-<h1>Hi there, I'm <a href="https://lilithprimary.github.io/CV/" target="_blank">Galia!</a></h1>
+<h1>Hello, I'm <a href="https://lilithprimary.github.io/CV/" target="_blank">Galia!</a></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Front-end+developer)](https://git.io/typing-svg)
 
